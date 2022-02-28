@@ -6,3 +6,4 @@
 <view>hot-fix 3333</view>
 <view>master push</view>
 <view>pull test</view>
+<view>push again test</view>
