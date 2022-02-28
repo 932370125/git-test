@@ -5,3 +5,4 @@
 <view>master -111</view>
 <view>hot-fix 3333</view>
 <view>master push</view>
+<view>pull test</view>
