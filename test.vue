@@ -7,3 +7,4 @@
 <view>master push</view>
 <view>pull test</view>
 <view>push again test</view>
+<view>pull again test</view>
